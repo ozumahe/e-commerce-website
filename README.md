@@ -1,4 +1,4 @@
-# MUSIC PLAYER WITH HTML, CSS AND JAVASCRIPT
+# E-COMMERCE WEBSITE WITH HTML, CSS AND JAVASCRIPT
 
 ## Desktop view
 
@@ -9,6 +9,10 @@
 ## Mobile view
 
 ![shopping 2](https://user-images.githubusercontent.com/84742051/136489680-db7fc469-55cb-48f2-bb09-6edd4560872f.PNG)
+
+- _This e-commerce website is did with html, css and javascript with a public api_ \*
+
+- PUBLIC API USED **[fake store api](https://fakestoreapi.com/)**
 
 **FOLLOW FOR MORE**
 
